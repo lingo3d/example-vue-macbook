@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@lincode/math": "^1.0.8",
-    "lingo3d": "^1.10.100",
-    "lingo3d-vue": "^1.0.0",
+    "@lincode/math": "latest",
+    "lingo3d": "latest",
+    "lingo3d-vue": "latest",
     "vue": "^3.2.25",
     "vue-window-size": "^1.1.2"
   },
@@ -21,6 +21,6 @@
     "tailwindcss": "^3.0.24",
     "typescript": "^4.5.4",
     "vite": "^2.9.2",
-    "vue-tsc": "^0.29.8"
+    "vue-tsc": "latest"
   }
 }
